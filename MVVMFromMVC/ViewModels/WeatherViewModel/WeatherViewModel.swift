@@ -1,7 +1,6 @@
 
 import Foundation
 
-
 extension WeatherViewModel {
   
   enum Props {
